@@ -6,5 +6,5 @@ Contains lists of things to know/remember in different topics.
 
 2. Many information security lists which I will later move to this github repository appear in my blog here: https://secinfodb.wordpress.com/
 
-
+https://medium.com/coinmonks/math-in-solidity-part-3-percents-and-proportions-4db014e080b1
 https://consensys.github.io/smart-contract-best-practices/
